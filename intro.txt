@@ -1,0 +1,8 @@
+hi 
+myself prasuna
+i am having three years of exp in devops automation 
+basially we are doing e to e automation from checkout stage to deployment stage by using several devops tolls such as
+i am working as an end to end automation enigineer 
+in my projects i involved in several tools such as jenkins and 
+maven gradle jfrog ansble docker kubernetes from build stage to deployement stage
+
